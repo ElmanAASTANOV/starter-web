@@ -3,13 +3,13 @@
 This repo
 this sis test
 
-this test 2
+this test is for example
 
 ## Introducion
 
-## Purpose
+## Purpose for what something
 
-## How to to
+## How to be programmer
 
 Sample website with plenty of files for demos
 
