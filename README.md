@@ -18,3 +18,7 @@ Sample website with plenty
 ### Copyright
 
 2020 Elman Qaramanli
+
+## How to be Contribbute
+
+Please fork this repository and then issue Pull Requests for review.
