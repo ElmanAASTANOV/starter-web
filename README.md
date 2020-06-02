@@ -14,3 +14,7 @@ this is for example. (this is second and untracked)
 Sample website with plenty of files for demos
 
 Sample website with plenty
+
+### Copyright
+
+2020 Elman Qaramanli
