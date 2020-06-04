@@ -17,7 +17,7 @@ Sample website with plenty
 
 ### Copyright
 
-2020 Elman Qaramanli
+2020 Elman Qaramanli. All rights preserve
 
 ## How to be Contribbute
 
